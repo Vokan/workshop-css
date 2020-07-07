@@ -21,6 +21,9 @@ nav li a{
     text-decoration: none;
 }
 a{
-    color:#009900;
+    color:#030099;
     text-decoration: none;
+}
+nav li a:hover, nav li a:focus, nav li a:active{
+    background: #009900;
 }
