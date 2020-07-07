@@ -13,14 +13,13 @@ nav li {
     display: inline-block;
   }
 nav li a{
-    width: auto;
     border: 1px solid #660000;
     padding: 5px;
     background-color: #C03000;
     color:#EFECCA;
     text-decoration: none;
 }
-a{
+footer a{
     color:#030099;
     text-decoration: none;
 }
