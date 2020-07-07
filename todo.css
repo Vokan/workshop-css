@@ -23,6 +23,6 @@ input{
     border-radius: 3px;
     padding: 15px;
 }
-input:last-child{
+input[type="submit"]{
     border-radius: 8px;
 }
